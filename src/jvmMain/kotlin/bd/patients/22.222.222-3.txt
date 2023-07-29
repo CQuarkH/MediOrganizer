@@ -1,6 +1,0 @@
-Patient's Names: Sebastian Pablo
-Patient's Surnames: Avila Fica
-Age: 20
-RUT: 22.222.222-3
-Admission Date: 11-07-2023 | 17:02:49
-Medical Findings: Nothing to say

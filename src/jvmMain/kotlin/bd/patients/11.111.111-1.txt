@@ -1,6 +1,0 @@
-Patient's Names: Juan Esteban
-Patient's Surnames: Albornoz Ugarte
-Age: 20
-RUT: 11.111.111-1
-Admission Date: 11-07-2023 | 12:54:46
-Medical Findings: Noasdjaskldjaskdjasldjaslkdjasldkjsaldksajldkasjdlksajdlsadlaskdjlaskdjalskdjaslkdjaslkdjaslkdjasldkaslkdjaslkasasldasldasldasldasldkasldjalskdjalskdlaskdjlaskdjlaskdjalskdjalskdjasldkjasldkjasldkjaslkdasjldkjasldkjasldkjasldkjasld

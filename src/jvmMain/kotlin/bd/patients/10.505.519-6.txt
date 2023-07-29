@@ -1,6 +1,0 @@
-Patient's Names: Modesto
-Patient's Surnames: Currihuil Sandoval
-Age: 55
-RUT: 10.505.519-6
-Admission Date: 10-07-2023 | 16:24:48
-Medical Findings: Hypertension

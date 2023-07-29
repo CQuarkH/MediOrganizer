@@ -1,6 +1,0 @@
-Patient's Names: Matias Enrique
-Patient's Surnames: Currihuil Sandoval
-Age: 14
-RUT: 23.000.394-7
-Admission Date: 10-07-2023 | 15:26:13
-Medical Findings: Nothing to say
