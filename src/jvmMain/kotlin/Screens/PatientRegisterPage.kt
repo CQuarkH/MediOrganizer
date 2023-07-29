@@ -121,7 +121,7 @@ class PatientRegisterPage (
 
                             }
                             else {
-                                if(patientList.any{ it.getRUT() == patientRUT.value}){
+                                if(!patientList.any{ it.getRUT() == patientRUT.value}){
                                     BD.createPatient(Patient(
                                         name = patientName.value,
                                         surname = patientSurname.value,
@@ -130,6 +130,9 @@ class PatientRegisterPage (
                                         date = LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy | HH:mm:ss")),
                                         medicalFindings = medicalFindings.value
                                     ))
+                                }
+                                else{
+                                    println("Patient already exists!");
                                 }
                             }
                             if (isEditing) navGraph.back() else navGraph.navigateTo(Screen.Patients())

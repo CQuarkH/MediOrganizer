@@ -27,7 +27,7 @@ kotlin {
     sourceSets {
         val jvmMain by getting {
             dependencies {
-                implementation(compose.desktop.currentOs.toString())
+                implementation(compose.desktop.currentOs)
                 implementation(kotlin("stdlib-jdk8"))
 
 
