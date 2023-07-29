@@ -1,0 +1,6 @@
+Patient's Names: Graciela Ester
+Patient's Surnames: Sandoval Molina
+Age: 51
+RUT: 12.931.971-2
+Admission Date: 10-07-2023 | 18:42:30
+Medical Findings: Nothing to say
