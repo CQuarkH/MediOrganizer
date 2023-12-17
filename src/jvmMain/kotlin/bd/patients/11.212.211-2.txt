@@ -1,6 +1,6 @@
 Patient's Names: John
 Patient's Surnames: Doe
 Age: 21
-RUT: 11.111.111-1
-Admission Date: 29-07-2023 | 10:53:14
+RUT: 11.212.211-2
+Admission Date: 17-12-2023 | 17:18:15
 Medical Findings: Nothing to say
